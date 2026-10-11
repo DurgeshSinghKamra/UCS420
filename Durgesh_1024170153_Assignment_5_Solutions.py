@@ -1,9 +1,4 @@
-# UCS420: Cognitive Computing
-# Assignment 4 - NumPy Introduction-I
-# Write each question as a comment, followed by its solution.
-
 import numpy as np
-
 
 # Q1. Create a NumPy 1D array with 5 elements and perform:
 # (a) Addition of 2 to every element
