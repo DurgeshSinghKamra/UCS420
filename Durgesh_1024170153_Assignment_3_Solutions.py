@@ -1,8 +1,4 @@
-# Assignment-3: Cognitive Computing (UCS420) - Pandas
-# Solutions are written question-wise, with each question in comments.
-
 import pandas as pd
-
 
 # Q1. Create a DataFrame using the table given in the assignment.
 # The columns are: TID, Refund, Marital Status, Taxable Income, Cheat.
