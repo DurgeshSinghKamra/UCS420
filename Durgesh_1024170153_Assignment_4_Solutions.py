@@ -1,15 +1,5 @@
-# UCS420: Cognitive Computing
-# Assignment 4 - A Cognitive FAQ System Using Pandas (Nova 2.0)
-#
-# The assignment asks for a personalized 6-entry FAQ DataFrame, a simple
-# confidence-scoring function, category filtering, keyword updating and CSV
-# export, category counts, and explicit handling of tied highest scores.
-#
-# Run this file and enter your college roll number when prompted.
-
 import re
 import pandas as pd
-
 
 # Q1. Build Your Personalized Knowledge Base:
 # Create exactly 6 FAQ entries: 4 fixed entries and 2 entries based on the
