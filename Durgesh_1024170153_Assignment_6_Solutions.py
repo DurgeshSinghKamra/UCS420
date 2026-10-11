@@ -1,9 +1,4 @@
-# UCS420: Cognitive Computing
-# Assignment 6 - NumPy-II
-# Each question is included as a comment, followed by its solution.
-
 import numpy as np
-
 
 # Q1. Sensor readings: temperature = [25, 28, 31, 35, 38, 27, 33, 40].
 # The sensor has an average measurement error of +2 C.
